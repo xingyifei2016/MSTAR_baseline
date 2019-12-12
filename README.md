@@ -1,5 +1,5 @@
 # MSTAR_baseline
-Baseline for comparison to RotLieNet on the MSTAR dataset
+Baseline for comparison to RotLieNet on the MSTAR dataset. This model serves as a baseline model for [RotLieNet](https://github.com/xingyifei2016/RotLieNet)
 
 ## Data Preparation
 
@@ -15,3 +15,5 @@ Baseline for comparison to RotLieNet on the MSTAR dataset
 ```
 python baseline.py
 ```
+
+
